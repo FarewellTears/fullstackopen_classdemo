@@ -1,0 +1,2 @@
+# fullstackopen_classdemo
+仓库为个人学习记录自用，无其他任何用途或亮点存在
